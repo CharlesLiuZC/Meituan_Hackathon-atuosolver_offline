@@ -1,0 +1,44 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments and local config
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# OS / IDE / local assistant state
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/
+
+# Logs, process markers, and experiment state
+*.log
+*.pid
+*.sqlite
+logs/
+memory/
+models/
+long_train_*
+long_training_log.jsonl
+training_24h_*
+
+# Generated or competition data
+Hackthon Data/
+example/*.txt
+training_cases/*.txt
+training_cases/train/
+training_cases_auto/
+training_cases_hard/
+
+# Temporary validation copies
+__validate_solver_*.py

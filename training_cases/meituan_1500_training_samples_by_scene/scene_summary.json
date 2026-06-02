@@ -1,0 +1,112 @@
+{
+  "high_noise_seed601": {
+    "files": 150,
+    "teacher_target_score": 497.06,
+    "num_tasks": 30,
+    "num_couriers": 70,
+    "candidate_count_min": 8000,
+    "candidate_count_max": 8000,
+    "avg_score_mean": 64.914656,
+    "avg_willingness_mean": 0.449598,
+    "single_ratio_mean": 0.064522
+  },
+  "large_seed301": {
+    "files": 150,
+    "teacher_target_score": 680.13,
+    "num_tasks": 40,
+    "num_couriers": 80,
+    "candidate_count_min": 20000,
+    "candidate_count_max": 33780,
+    "avg_score_mean": 58.730135,
+    "avg_willingness_mean": 0.306124,
+    "single_ratio_mean": 0.048972
+  },
+  "large_seed302": {
+    "files": 150,
+    "teacher_target_score": 640.43,
+    "num_tasks": 40,
+    "num_couriers": 80,
+    "candidate_count_min": 20000,
+    "candidate_count_max": 20000,
+    "avg_score_mean": 58.128289,
+    "avg_willingness_mean": 0.325569,
+    "single_ratio_mean": 0.048866
+  },
+  "low_willingness_seed501": {
+    "files": 150,
+    "teacher_target_score": 1806.96,
+    "num_tasks": 30,
+    "num_couriers": 70,
+    "candidate_count_min": 8000,
+    "candidate_count_max": 8000,
+    "avg_score_mean": 70.375197,
+    "avg_willingness_mean": 0.111659,
+    "single_ratio_mean": 0.064447
+  },
+  "medium_seed201": {
+    "files": 150,
+    "teacher_target_score": 494.86,
+    "num_tasks": 30,
+    "num_couriers": 60,
+    "candidate_count_min": 8000,
+    "candidate_count_max": 8000,
+    "avg_score_mean": 57.271786,
+    "avg_willingness_mean": 0.329617,
+    "single_ratio_mean": 0.064472
+  },
+  "medium_seed202": {
+    "files": 150,
+    "teacher_target_score": 527.59,
+    "num_tasks": 30,
+    "num_couriers": 60,
+    "candidate_count_min": 8000,
+    "candidate_count_max": 8000,
+    "avg_score_mean": 59.236993,
+    "avg_willingness_mean": 0.311025,
+    "single_ratio_mean": 0.064665
+  },
+  "medium_seed203": {
+    "files": 150,
+    "teacher_target_score": 508.65,
+    "num_tasks": 30,
+    "num_couriers": 60,
+    "candidate_count_min": 8000,
+    "candidate_count_max": 8000,
+    "avg_score_mean": 58.473512,
+    "avg_willingness_mean": 0.301053,
+    "single_ratio_mean": 0.064456
+  },
+  "scarce_couriers_seed401": {
+    "files": 150,
+    "teacher_target_score": 1554.38,
+    "num_tasks": 40,
+    "num_couriers": 34,
+    "candidate_count_min": 12000,
+    "candidate_count_max": 12000,
+    "avg_score_mean": 58.345451,
+    "avg_willingness_mean": 0.346492,
+    "single_ratio_mean": 0.048654
+  },
+  "small_seed100": {
+    "files": 150,
+    "teacher_target_score": 306.91,
+    "num_tasks": 15,
+    "num_couriers": 30,
+    "candidate_count_min": 1200,
+    "candidate_count_max": 1200,
+    "avg_score_mean": 57.814184,
+    "avg_willingness_mean": 0.363724,
+    "single_ratio_mean": 0.124339
+  },
+  "tiny_seed42": {
+    "files": 150,
+    "teacher_target_score": 158.65,
+    "num_tasks": 6,
+    "num_couriers": 12,
+    "candidate_count_min": 120,
+    "candidate_count_max": 120,
+    "avg_score_mean": 47.306388,
+    "avg_willingness_mean": 0.475125,
+    "single_ratio_mean": 0.283722
+  }
+}
